@@ -13,7 +13,7 @@ It is introduced together with the **MPW-180 dataset**, a mobile palmprint corpu
 - Benchmark results on MPW-180 and other public palmprint datasets  
 
 ## 📂 Repository Structure  
-
+```
 PalmWildNet/
 │
 ├── src/ # Model code and training scripts
@@ -23,6 +23,7 @@ PalmWildNet/
 ├── LICENSE # Apache 2.0 license for the code
 ├── DATASET_LICENSE # CC BY-NC 4.0 license for the dataset
 └── README.md
+```
 
 ## 📊 Dataset: MPW-180  
 
@@ -33,6 +34,11 @@ PalmWildNet/
 
 👉 [Dataset DOI / Link]  
 
+## Acknowledgement
+
+This research has been prepared with the support of TUBITAK-1001 Program (Project No: 122E402). However, all responsibility for this paper belongs to the author of the paper.
+The financial support received from TUBITAK does not mean that the content of the paper is scientifically approved by TUBITAK. We would like to thank TUBITAK for their support to the project.
+
 ## License
 
 - **Code (PalmWildNet framework, scripts):** Licensed under the Apache License 2.0.  
@@ -42,6 +48,7 @@ PalmWildNet/
 
 If you use PalmWildNet or MPW-180 in your research, please cite:
 
+```
 @article{PalmWildNet2025,
   title   = {A Video-Based Mobile Palmprint Dataset and an Illumination-Robust Deep Learning Architecture for Unconstrained Environments},
   author  = {Koşmaz Sünnetci, Betül and Bingöl, Özkan and Gedikli, Eyüp and Ekinci, Murat and Doğan, Ramazan Özgür and Türk, Salih and Güngör, Nihan},
@@ -50,3 +57,4 @@ If you use PalmWildNet or MPW-180 in your research, please cite:
   year    = {2025},
   note    = {under review}
 }
+```
