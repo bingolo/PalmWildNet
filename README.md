@@ -1,4 +1,8 @@
-# PalmWildNet  
+# PalmWildNet *
+
+\* **The study is currently under review. All information will be added once the review process is complete.**
+
+---
 
 **PalmWildNet** is a deep learning framework for **mobile palmprint recognition**, designed with **residual blocks + SE blocks** and optimized using **Triplet Loss**.  
 It is introduced together with the **MPW-180 dataset**, a mobile palmprint corpus captured across multiple devices, illumination conditions (flash / non-flash), and realistic environments.  
