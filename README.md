@@ -48,13 +48,7 @@ The financial support received from TUBITAK does not mean that the content of th
 
 If you use PalmWildNet or MPW-180 in your research, please cite:
 
-```
-@article{PalmWildNet2025,
-  title   = {A Video-Based Mobile Palmprint Dataset and an Illumination-Robust Deep Learning Architecture for Unconstrained Environments},
-  author  = {Koşmaz Sünnetci, Betül and Bingöl, Özkan and Gedikli, Eyüp and Ekinci, Murat and Doğan, Ramazan Özgür and Türk, Salih and Güngör, Nihan},
-  journal = {Applied Sciences},
-  publisher= {MDPI},
-  year    = {2025},
-  note    = {under review}
-}
-```
+''' 
+The study is in the review process. Once completed, the necessary information will be transferred here.
+'''
+
